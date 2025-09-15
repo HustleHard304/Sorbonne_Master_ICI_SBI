@@ -2,7 +2,7 @@ pid
     nombre aléatoire entre 400 000 et 2 012 511 826
 
 vague_cine_inv      
-    range(2326, 2331)
+    range(2326, 2332)
 
 age
     range(3, 121)
